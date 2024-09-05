@@ -1,0 +1,13 @@
+홈1
+MIAE (Moirai One)#000000(36px)
+신입 ..- (Dongle)#cb34a9(100px)
+내비툴 (Ink Free)#000000(배경#eecdd9)(30px)
+
+홈2~4 (Dongle)#000000
+2 - 한글(40px),(40px)
+3 - 영문(35px)
+4 - 영문(35px)
+
+홈5
+카톡..- (Dongle)#000000(35px)
+인사 (Moirai One)#000000
